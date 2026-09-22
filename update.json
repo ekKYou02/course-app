@@ -1,0 +1,7 @@
+{
+  "versionCode": 3,
+  "versionName": "2.1",
+  "updateUrl": "https://github.com/ekKYou02/course-app/releases/download/v2.1/CourseWidget-v2.1.apk",
+  "notes": "修复桌面小组件崩溃问题；全新应用图标与底部导航图标；界面精修",
+  "force": false
+}
